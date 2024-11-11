@@ -12,8 +12,8 @@
 🎨 Expertise in Tailwind CSS | Bootstrap |
 ---
 
-<h1 align="center">Hi 👋, I'm Moin Khan</h1>
-<h3 align="center">A passionate Full-Stack Developer from Madhya Pradesh, India 🚀</h3>
+<h1 align="left">Hi 👋, I'm Moin Khan</h1>
+<h3 align="left">A passionate Full-Stack Developer from Madhya Pradesh, India 🚀</h3>
 
 <p align="center">
 🌟 Skilled in MERN Stack | PHP | Python | JavaScript | HTML | CSS | Responsive Design <br/>
