@@ -9,19 +9,10 @@
 
 <p align="center">
 🌟 Skilled in MERN Stack | PHP | Python | JavaScript | HTML | CSS | Responsive Design <br/>
-🎨 Expertise in Tailwind CSS | Bootstrap |
----
-
-<h1 align="left">Hi 👋, I'm Moin Khan</h1>
-<h3 align="left">A passionate Full-Stack Developer from Madhya Pradesh, India 🚀</h3>
-
-<p align="center">
-🌟 Skilled in MERN Stack | PHP | Python | JavaScript | HTML | CSS | Responsive Design <br/>
 🎨 Expertise in Tailwind CSS | Bootstrap | SwiperJS | Frontend & Backend Development <br/>
 🎓 Aspiring Software Engineer - 2024
 </p>
 
----
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=moinkhan2000&label=Profile%20views&color=0e75b6&style=flat" alt="moinkhan2000" /> 
