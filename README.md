@@ -1,8 +1,6 @@
-
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFo9CUDz4Y9gQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687495888116?e=1736985600&v=beta&t=UR-HnLxfgi6p45o535k069vIYp2THd3_PZkX3An53hA)](https://portfolio-mkhan.netlify.app/)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/73c19a91140cced4ecd72d62dd206539bc56ee0dc5131030d7f18158c959e871/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313131383337362f73637265656e73686f74732f333630343138362f646576656c6f7065722d6472696262626c652e676966" />
-
 
 <h1 align="center">Hi 👋, I'm Moin Khan</h1>
 <h3 align="center">A passionate Full-Stack Developer from Madhya Pradesh, India 🚀</h3>
@@ -12,7 +10,6 @@
 🎨 Expertise in Tailwind CSS | Bootstrap | SwiperJS | Frontend & Backend Development <br/>
 🎓 Aspiring Software Engineer - 2024
 </p>
-
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=moinkhan2000&label=Profile%20views&color=0e75b6&style=flat" alt="moinkhan2000" /> 
@@ -35,6 +32,26 @@
 
 - 📄 **Know about my experiences:**  
   [My Resume](https://www.canva.com/design/DAGUMFjaTDw/sPgreRLhuargC7tH-f4uFw/view?utm_content=DAGUMFjaTDw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+---
+
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moinkhan2000&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=moinkhan2000&theme=radical" alt="GitHub Streak Stats" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinkhan2000&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+<h3 align="center">✨ Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
 
 ---
 
